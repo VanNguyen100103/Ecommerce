@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Wireless Bluetooth Headphones",
+        "price": 59.99,
+        "description": "High-quality wireless headphones with noise-canceling feature.",
+        "ratings": 4.5,
+        "images": {
+            "public_id": "headphones1",
+            "url": "http://example.com/images/headphones1.jpg"
+        },
+        "category": "Electronics",
+        "vendor": "TechWorld",
+        "stock": 150,
+        "numberOfReviews": 25,
+        "reviews": [
+            {
+                "name": "John Doe",
+                "rating": 5,
+                "comment": "Excellent sound quality and comfortable to wear."
+            },
+            {
+                "name": "Jane Smith",
+                "rating": 4,
+                "comment": "Great headphones but a bit pricey."
+            }
+        ]
+    },
+    {
+        "name": "Smart Home Speaker",
+        "price": 129.99,
+        "description": "Voice-controlled smart speaker with integrated AI assistant.",
+        "ratings": 4.7,
+        "images": {
+            "public_id": "smartspeaker1",
+            "url": "http://example.com/images/smartspeaker1.jpg"
+        },
+        "category": "Smart Home",
+        "vendor": "HomeTech",
+        "stock": 200,
+        "numberOfReviews": 45,
+        "reviews": [
+            {
+                "name": "Alice Johnson",
+                "rating": 5,
+                "comment": "Very responsive and integrates well with other smart devices."
+            },
+            {
+                "name": "Bob Brown",
+                "rating": 4,
+                "comment": "Good sound quality but setup was a bit tricky."
+            }
+        ]
+    },
+    {
+        "name": "Yoga Mat",
+        "price": 19.99,
+        "description": "Eco-friendly, non-slip yoga mat with excellent cushioning.",
+        "ratings": 4.2,
+        "images": {
+            "public_id": "yogamat1",
+            "url": "http://example.com/images/yogamat1.jpg"
+        },
+        "category": "Sports and Outdoor",
+        "vendor": "FitLife",
+        "stock": 300,
+        "numberOfReviews": 60,
+        "reviews": [
+            {
+                "name": "Emma Wilson",
+                "rating": 5,
+                "comment": "Perfect for my daily yoga practice."
+            },
+            {
+                "name": "David Lee",
+                "rating": 3,
+                "comment": "Good mat but a bit thinner than expected."
+            }
+        ]
+    }
+]

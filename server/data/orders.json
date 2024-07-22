@@ -1,0 +1,99 @@
+[
+    {
+        "shippingInfo": {
+            "address": "123 Main St",
+            "city": "Hometown",
+            "phoneNo": "123-456-7890",
+            "postalCode": "12345",
+            "country": "CountryName"
+        },
+        "user": "60c72b2f9b1e8a001c9e5b4e",  
+        "orderItems": [
+            {
+                "name": "Product 1",
+                "quantity": 2,
+                "image": "http://example.com/image1.jpg",
+                "price": 29.99,
+                "product": "60c72b2f9b1e8a001c9e5b4f" 
+            }
+        ],
+        "paymentInfo": {
+            "id": "paymentId123",
+            "status": "Paid"
+        },
+        "paidAt": "2024-07-10T10:00:00Z",
+        "itemsPrice": 59.98,
+        "taxPrice": 5.99,
+        "shippingPrice": 4.99,
+        "totalPrice": 70.96,
+        "orderStatus": "Processing",
+        "deliveredAt": null
+    },
+    {
+        "shippingInfo": {
+            "address": "456 Another St",
+            "city": "AnotherCity",
+            "phoneNo": "987-654-3210",
+            "postalCode": "67890",
+            "country": "CountryName"
+        },
+        "user": "60c72b2f9b1e8a001c9e5b50",  
+        "orderItems": [
+            {
+                "name": "Product 2",
+                "quantity": 1,
+                "image": "http://example.com/image2.jpg",
+                "price": 49.99,
+                "product": "60c72b2f9b1e8a001c9e5b51"  
+            },
+            {
+                "name": "Product 3",
+                "quantity": 3,
+                "image": "http://example.com/image3.jpg",
+                "price": 19.99,
+                "product": "60c72b2f9b1e8a001c9e5b52"  
+            }
+        ],
+        "paymentInfo": {
+            "id": "paymentId124",
+            "status": "Pending"
+        },
+        "paidAt": "2024-07-11T11:00:00Z",
+        "itemsPrice": 109.96,
+        "taxPrice": 10.99,
+        "shippingPrice": 5.99,
+        "totalPrice": 126.94,
+        "orderStatus": "Processing",
+        "deliveredAt": null
+    },
+    {
+        "shippingInfo": {
+            "address": "789 New St",
+            "city": "NewCity",
+            "phoneNo": "555-555-5555",
+            "postalCode": "54321",
+            "country": "CountryName"
+        },
+        "user": "60c72b2f9b1e8a001c9e5b53",  
+        "orderItems": [
+            {
+                "name": "Product 4",
+                "quantity": 1,
+                "image": "http://example.com/image4.jpg",
+                "price": 99.99,
+                "product": "60c72b2f9b1e8a001c9e5b54" 
+            }
+        ],
+        "paymentInfo": {
+            "id": "paymentId125",
+            "status": "Paid"
+        },
+        "paidAt": "2024-07-12T12:00:00Z",
+        "itemsPrice": 99.99,
+        "taxPrice": 9.99,
+        "shippingPrice": 4.99,
+        "totalPrice": 114.97,
+        "orderStatus": "Shipped",
+        "deliveredAt": null
+    }
+]

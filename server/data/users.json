@@ -1,0 +1,82 @@
+[
+    {
+        "_id": { "$oid": "668d200a976cda9476748b4f" },
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "$2b$10$M2QrDU8vSf6soTAEMPt/8OU6ixrSULLCu.FjTCSX57z9ByUYmd0ry",
+        "avatar": {
+            "public_id": "abcdefghijklmnopqrstuvwxyz1234567890",
+            "url": "https://cdn.pixabay.com/photo/2016/04/15/18/05/computer-1331579_640.png"
+        },
+        "role": "admin",
+        "createdAt": { "$date": "2024-07-09T11:33:30.290Z" },
+        "updatedAt": { "$date": "2024-07-10T04:15:30.684Z" },
+        "__v": 0,
+        "resetPasswordToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2OGQyMDBhOTc2Y2RhOTQ3Njc0OGI0ZiIsImlhdCI6MTcyMDU0MDAzNywiZXhwIjoxNzUyMDc2MDM3fQ.i8yyNmuTocBAyNHR9o696sk6emh95VexYPDrh4hlm0k",
+        "resetPasswordExpire": { "$date": "2024-07-10T04:45:30.684Z" }
+    },
+    {
+        "_id": { "$oid": "668d200a976cda9476748b50" },
+        "username": "user1",
+        "email": "user1@gmail.com",
+        "password": "$2b$10$M2QrDU8vSf6soTAEMPt/8OU6ixrSULLCu.FjTCSX57z9ByUYmd0ry",
+        "avatar": {
+            "public_id": "abcdefghijklmnopqrstuvwxyz1234567891",
+            "url": "https://cdn.pixabay.com/photo/2016/04/15/18/05/computer-1331580_640.png"
+        },
+        "role": "user",
+        "createdAt": { "$date": "2024-07-09T11:33:30.290Z" },
+        "updatedAt": { "$date": "2024-07-10T04:15:30.684Z" },
+        "__v": 0,
+        "resetPasswordToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2OGQyMDBhOTc2Y2RhOTQ3Njc0OGI0ZiIsImlhdCI6MTcyMDU0MDAzNywiZXhwIjoxNzUyMDc2MDM3fQ.i8yyNmuTocBAyNHR9o696sk6emh95VexYPDrh4hlm1k",
+        "resetPasswordExpire": { "$date": "2025-07-10T04:45:30.684Z" }
+    },
+    {
+        "_id": { "$oid": "668d200a976cda9476748b51" },
+        "username": "user2",
+        "email": "user2@gmail.com",
+        "password": "$2b$10$M2QrDU8vSf6soTAEMPt/8OU6ixrSULLCu.FjTCSX57z9ByUYmd0ry",
+        "avatar": {
+            "public_id": "abcdefghijklmnopqrstuvwxyz1234567892",
+            "url": "https://cdn.pixabay.com/photo/2016/04/15/18/05/computer-1331581_640.png"
+        },
+        "role": "user",
+        "createdAt": { "$date": "2024-07-09T11:33:30.290Z" },
+        "updatedAt": { "$date": "2024-07-10T04:15:30.684Z" },
+        "__v": 0,
+        "resetPasswordToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2OGQyMDBhOTc2Y2RhOTQ3Njc0OGI0ZiIsImlhdCI6MTcyMDU0MDAzNywiZXhwIjoxNzUyMDc2MDM3fQ.i8yyNmuTocBAyNHR9o696sk6emh95VexYPDrh4hlm2k",
+        "resetPasswordExpire": { "$date": "2024-07-10T04:45:30.684Z" }
+    },
+    {
+        "_id": { "$oid": "668d200a976cda9476748b52" },
+        "username": "user3",
+        "email": "user3@gmail.com",
+        "password": "$2b$10$M2QrDU8vSf6soTAEMPt/8OU6ixrSULLCu.FjTCSX57z9ByUYmd0ry",
+        "avatar": {
+            "public_id": "abcdefghijklmnopqrstuvwxyz1234567893",
+            "url": "https://cdn.pixabay.com/photo/2016/04/15/18/05/computer-1331582_640.png"
+        },
+        "role": "user",
+        "createdAt": { "$date": "2024-07-09T11:33:30.290Z" },
+        "updatedAt": { "$date": "2024-07-10T04:15:30.684Z" },
+        "__v": 0,
+        "resetPasswordToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2OGQyMDBhOTc2Y2RhOTQ3Njc0OGI0ZiIsImlhdCI6MTcyMDU0MDAzNywiZXhwIjoxNzUyMDc2MDM3fQ.i8yyNmuTocBAyNHR9o696sk6emh95VexYPDrh4hlm3k",
+        "resetPasswordExpire": { "$date": "2025-07-10T04:45:30.684Z" }
+    },
+    {
+        "_id": { "$oid": "668d200a976cda9476748b53" },
+        "username": "user4",
+        "email": "user4@gmail.com",
+        "password": "$2b$10$M2QrDU8vSf6soTAEMPt/8OU6ixrSULLCu.FjTCSX57z9ByUYmd0ry",
+        "avatar": {
+            "public_id": "abcdefghijklmnopqrstuvwxyz1234567894",
+            "url": "https://cdn.pixabay.com/photo/2016/04/15/18/05/computer-1331583_640.png"
+        },
+        "role": "user",
+        "createdAt": { "$date": "2024-07-09T11:33:30.290Z" },
+        "updatedAt": { "$date": "2024-07-10T04:15:30.684Z" },
+        "__v": 0,
+        "resetPasswordToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2OGQyMDBhOTc2Y2RhOTQ3Njc0OGI0ZiIsImlhdCI6MTcyMDU0MDAzNywiZXhwIjoxNzUyMDc2MDM3fQ.i8yyNmuTocBAyNHR9o696sk6emh95VexYPDrh4hlm4k",
+        "resetPasswordExpire": { "$date": "2024-07-10T04:45:30.684Z" }
+    }
+]
